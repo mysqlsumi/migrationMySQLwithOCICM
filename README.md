@@ -5,10 +5,14 @@ Migration any MySQL to MDS using OCICM tool
 ### 1) Create an OCI Account
 ### 2) Create a VCN for Network
 
+
+
 ## 1. Migration MySQL on other cloud vendors or On-Prem to MDS OCI
+### - Select MySQL DbaaS/On-Premiss MySQL Community Server to OCI MDS menu
 
 ![image](https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/1dc3695c-2364-4e85-be7b-fe5709e66564)
 
+### - 
 <img width="776" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/60cf9c57-71b6-472f-bf46-00848e1f941e">
 
 
