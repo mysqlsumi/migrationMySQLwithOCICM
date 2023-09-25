@@ -3,11 +3,11 @@ Migration any MySQL to MDS using OCICM tool
 
 ## 0. 사전작업 (Pre- Requisite)
 ### 1) Create an OCI Account
-https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3157
+[How to create OCI Free trial](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3157)
 
 
 ### 2) Create a VCN for Network
-http://taewan.kim/oci_docs/10_quickstart/vcn/simple_vcn/
+[How to create a VCN](http://taewan.kim/oci_docs/10_quickstart/vcn/simple_vcn/)
 
 
 
