@@ -1,12 +1,12 @@
-# migrationMySQLwithOCICM
+# MigrationMySQLwithOCICM
 Migration any MySQL to MDS using OCICM tool
 
-## 0. 사전작업 (Pre- Requisite)
-### 1) Create an OCI Account
+## 0. Pre- Requisite (사전작업)
+### 1) Create an OCI Account (OCI 무료 계정 생성)
 [How to create OCI Free trial](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3157)
 
 
-### 2) Create a VCN for Network
+### 2) Create a VCN for Network (네트워크를 위한 VCN 생성)
 [How to create a VCN](http://taewan.kim/oci_docs/10_quickstart/vcn/simple_vcn/)
 
 
