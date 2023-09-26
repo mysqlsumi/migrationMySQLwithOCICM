@@ -20,24 +20,25 @@ Migration any MySQL to MDS using OCICM tool
 <img width="776" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/60cf9c57-71b6-472f-bf46-00848e1f941e">
 
 
-## - Select Availability Domain (AD 선택)
+## - Select Availability Domain(AD 선택)
 <img width="776" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/e5512da7-b686-494d-aaf1-10dd887daa3d">
 
 
-## - Select Fault Doamin (FD 선택)
+## - Select Fault Doamin(FD 선택)
 <img width="776" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/33c05d21-e670-45cd-81e0-80be1e940a4d">
 
 
-## - Select the target VCN (VCN 선택)
+## - Select the target VCN(VCN 선택)
 <img width="842" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/d2d17dfc-fb87-4bcb-998e-bf213663dd72">
 
 
-## - Select the target subnet (서브넷 선택)
+## - Select the target subnet(서브넷 선택)
 <img width="942" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/ff4666fd-cd83-48f2-a09a-3e57dd95fb13">
 
 
-## - Select the MDS Shape  (MDS shape 선택)
+## - Select the MDS Shape(MDS shape 선택)
 <img width="769" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/35a598a6-69d4-4c78-9898-a8e847b0d34e">
+
 
 <img width="934" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/8b99756a-f9bd-4cce-a21f-3f67bedbfe11">
 
