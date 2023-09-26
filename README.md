@@ -36,7 +36,7 @@ Migration any MySQL to MDS using OCICM tool
 <img width="942" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/ff4666fd-cd83-48f2-a09a-3e57dd95fb13">
 
 
-### - Select the MDS Shape(MDS shape 선택)
+### - Select the MDS Shape(MDS shape 선택)
 <img width="769" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/35a598a6-69d4-4c78-9898-a8e847b0d34e">
 
 
@@ -44,7 +44,7 @@ Migration any MySQL to MDS using OCICM tool
 <img width="934" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/8b99756a-f9bd-4cce-a21f-3f67bedbfe11">
 
 
-### - Fill in the source DB information (소스 DB 정보 입력)
+### - Fill in the source DB information (소스 DB 정보 입력)
 <img width="781" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/de73042a-5952-439f-bede-06cb408cc96e">
 
 
