@@ -16,7 +16,7 @@ Migration any MySQL to MDS using OCICM tool
 <img width="821" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/84733143-8a70-4eec-92a5-db95afcefe21">
 
 
-### - Input the target MDS information which will be created by OCICM (생성할 MDS 정보 입력)
+### - Fill in the target MDS information which will be created by OCICM (생성할 MDS 정보 입력)
 <img width="776" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/60cf9c57-71b6-472f-bf46-00848e1f941e">
 
 
@@ -40,15 +40,23 @@ Migration any MySQL to MDS using OCICM tool
 <img width="769" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/35a598a6-69d4-4c78-9898-a8e847b0d34e">
 
 
+## - Select Configuration for the MDS Shape(MDS shape 에 대한 Configuration 선택)
 <img width="934" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/8b99756a-f9bd-4cce-a21f-3f67bedbfe11">
 
 
+## - Fill in the source DB information (소스 DB 정보 입력)
 <img width="781" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/de73042a-5952-439f-bede-06cb408cc96e">
 
+
+## - Select a schema on the source DB (소스 DB 에서 전환할 스키마 선택)
 <img width="781" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/086ec24c-0dbd-4f25-9285-02c1eff243a0">
 
+
+## - Select the backup parameters(백업에 필요한 파라미터 선택 - default 권장)
 <img width="1042" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/86b91273-30bb-490d-91b6-c95cd1277768">
 
+
+## - Confirm the all settings (설정한 값 모두 확인)
 <img width="753" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/93ab3ecb-fe25-4f83-af49-cd59005424eb">
 
 <img width="776" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/cf73aa87-0d16-471c-a894-6ad52ef7abf6">
