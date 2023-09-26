@@ -48,15 +48,15 @@ Migration any MySQL to MDS using OCICM tool
 <img width="781" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/de73042a-5952-439f-bede-06cb408cc96e">
 
 
-### - Select a schema on the source DB (소스 DB 에서 전환할 스키마 선택)
+* Select a schema on the source DB (소스 DB 에서 전환할 스키마 선택)
 <img width="781" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/086ec24c-0dbd-4f25-9285-02c1eff243a0">
 
 
-### - Select the backup parameters(백업에 필요한 파라미터 선택 - default 권장)
+* Select the backup parameters(백업에 필요한 파라미터 선택 - default 권장)
 <img width="1042" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/86b91273-30bb-490d-91b6-c95cd1277768">
 
 
-### - Confirm the all settings (설정한 값 모두 확인)
+* Confirm the all settings (설정한 값 모두 확인)
 <img width="753" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/93ab3ecb-fe25-4f83-af49-cd59005424eb">
 
 <img width="776" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/cf73aa87-0d16-471c-a894-6ad52ef7abf6">
