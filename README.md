@@ -13,15 +13,16 @@ Migration any MySQL to MDS using OCICM tool
 
 ## 1. Migration MySQL on other cloud vendors or On-Prem to MDS OCI
 ### - Select MySQL DbaaS/On-Premiss MySQL Community Server to OCI MDS menu (아래 화면의 두번째 메뉴선택)
-
 <img width="821" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/84733143-8a70-4eec-92a5-db95afcefe21">
+
 
 ### - Input the target MDS information which will be created by OCICM (생성할 MDS 정보 입력)
 <img width="776" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/60cf9c57-71b6-472f-bf46-00848e1f941e">
 
-
+## - Select Availability Domain (AD 선택)
 <img width="776" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/e5512da7-b686-494d-aaf1-10dd887daa3d">
 
+## - Select Fault Doamin (FD 선택)
 <img width="776" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/33c05d21-e670-45cd-81e0-80be1e940a4d">
 
 <img width="842" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/d2d17dfc-fb87-4bcb-998e-bf213663dd72">
