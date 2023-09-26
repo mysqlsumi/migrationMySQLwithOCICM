@@ -59,12 +59,20 @@ Migration any MySQL to MDS using OCICM tool
 * Confirm the all settings (설정한 값 모두 확인)
 <img width="753" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/93ab3ecb-fe25-4f83-af49-cd59005424eb">
 
+
+* Select the *Task Manager: Manage tasks and launch Migration* menu (메뉴에서 Task Manager: Manage tasks and launch Migration 선택, 이때 실제 수행됨)
 <img width="776" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/cf73aa87-0d16-471c-a894-6ad52ef7abf6">
 
+
+* Select the *Launch : Launch a migration from tasks* (Launch : Launch a migration from tasks 메뉴 선택 후 실행)
 <img width="776" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/0522c6e3-bfa1-4d15-a676-7ceec6aaacd0">
 
+
+* Select the task configuration(수행할 task 설정을 선택 후 실행)
 <img width="952" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/a83b1283-290c-4e30-91b8-432cb141f83d">
 
+
+* Execute the task (실제 수행)
 <img width="821" alt="image" src="https://github.com/mysqlsumi/migrationMySQLwithOCICM/assets/31054795/3af0f73e-4937-46ca-bdd7-0a8b1bd51611">
 
 
